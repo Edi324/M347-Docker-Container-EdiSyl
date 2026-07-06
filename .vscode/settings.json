@@ -1,3 +1,8 @@
 {
-    "folder-color.pathColors": []
+    "folder-color.pathColors": [
+        {
+            "folderPath": "M347-Docker-Container-EdiSyl\\KN05\\",
+            "color": "foldercolorizer.color_00d7ff"
+        }
+    ]
 }
